@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Dev\\GitHub\\Servidor Http\\Servidor Http.csproj": {}
+    "C:\\Estudos\\Dev\\GitHub\\Projetos Curso Maroquio\\Servidor Http\\Servidor Http.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Dev\\GitHub\\Servidor Http\\Servidor Http.csproj": {
+    "C:\\Estudos\\Dev\\GitHub\\Projetos Curso Maroquio\\Servidor Http\\Servidor Http.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\Servidor Http\\Servidor Http.csproj",
+        "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\Projetos Curso Maroquio\\Servidor Http\\Servidor Http.csproj",
         "projectName": "Servidor Http",
-        "projectPath": "C:\\Estudos\\Dev\\GitHub\\Servidor Http\\Servidor Http.csproj",
+        "projectPath": "C:\\Estudos\\Dev\\GitHub\\Projetos Curso Maroquio\\Servidor Http\\Servidor Http.csproj",
         "packagesPath": "C:\\Users\\lenil\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Dev\\GitHub\\Servidor Http\\obj\\",
+        "outputPath": "C:\\Estudos\\Dev\\GitHub\\Projetos Curso Maroquio\\Servidor Http\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
